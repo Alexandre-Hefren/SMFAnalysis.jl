@@ -1,0 +1,11 @@
+[deps]
+BioAlignments = "00701ae9-d1dc-5365-b64a-a3a3ebf5695e"
+BioSequences = "7e6ae17a-c86d-528c-b3b9-7f778a29fe59"
+Blosc = "a74b3585-a348-5f62-a45c-50e91977d574"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataFramesMeta = "1313f7d8-7da2-5740-9ea0-a2ca25f37964"
+GenomeFragments = "4457e3f0-28e6-4a0e-b59c-01e4587e0deb"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+SMFTools = "e402be18-941d-4f88-839a-31d73d6b0658"
+XAM = "d759349c-bcba-11e9-07c2-5b90f8f05f7c"
