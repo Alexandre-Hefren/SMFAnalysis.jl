@@ -17,6 +17,7 @@ julia
 ```
 Within Julia activate the local environment
 ```julia
+]
 activate .
 instantiate ### for first time installation of all packages
 ```
